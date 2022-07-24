@@ -1,0 +1,195 @@
+{
+  "basic_info": {
+    "description_header": "Здравейте",
+    "description": "👋 Аз съм Станислав Темелков. Аз сум студент, който търси развитие и прави всичко, за да постигне целите си. Бих казал, че съм малко по-различен от останалите, но не в негативна посока. Участвал съм в интегрирането на блокчейни (Cardano, Cronos, Ravencoin и др.) към американската платформа Cryptoslam. Занимавал съм се с онлайн магазини, поддръжка, блогове, популяризиране и рекламиране на уеб страници и социални мрежи и много други интересни проекти. Имам професионален опит с проекти, организирани от Scrum чрез JIRA, TRELLO и др., AWS клъстери, lambdas, SQS, SNS, ECS, CloudFormation, EC2 и др., .NET Framework, ASP.NET MVC и Web API. Също така имам бегъл поглед върху Laravel и Angular. Ще направя правя всичко възможно да сте доволени от мен и съм сигурен, че това ще се случи. Въпреки че съм още студент, харесвам професията, която уча, и искам да я работя. Почитател съм на дистанционната работа (която може да включва командировки или тийм билдинг), тъй като смятам, че този модел на работа дава много възможности за мен и работодателите.",
+    "section_name": {
+      "about": "За мен",
+      "projects": "Проекти",
+      "skills": "Умения",
+      "experience": "Опит",
+      "contact": "Свържи се с мен"
+    }
+  },
+  "projects": [
+    {
+      "title": "Училищен уебсайт",
+      "startDate": "2016",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "images": [
+        "images/portfolio/ptg/p1.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "title": "ITNEWSBG (WEBSITE)",
+      "startDate": "2018",
+      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "images": [
+        "images/portfolio/itnews-website/p1.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "Wordpress"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        }
+      ]
+    },
+    {
+      "title": "ITNEWSBG (APP)",
+      "startDate": "2019",
+      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "images": [
+        "images/portfolio/itnews-app/p1.jpeg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-android-plain",
+          "name": "Android"
+        }
+      ]
+    },
+    {
+      "title": "Фирмен уебсайт",
+      "startDate": "2020",
+      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "images": [
+        "images/portfolio/integrasec/p1.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Блогове/Магазини",
+      "startDate": "2021",
+      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "images": [
+        "images/portfolio/tiandemagic/p1.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "RELAX IN VARNA",
+      "startDate": "2022",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "images": [
+        "images/portfolio/relax/p1.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Антибиотици Разград ООД",
+      "title": "Специалист компютърни системи (Стаж)",
+      "years": "07.2020 - 09.2020",
+      "mainTech": [
+        ".NET"
+      ],
+      "technologies": [
+        "PHP",
+        "System networks",
+        "Wordpress",
+        "Computer repair",
+        "Hardware solutions"
+      ]
+    },
+    {
+      "company": "Рифлекшън Инфосис ООД",
+      "title": "Junior .NET developer",
+      "years": "11.2021 - 07.2022",
+      "mainTech": [
+        ".NET"
+      ],
+      "technologies": [
+        "C#",
+        ".NET Core",
+        "Linux",
+        "Windows",
+        "SQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Web APIs",
+        "Docker",
+        "Amazon AWS",
+        "Scrum",
+        "Jira",
+        "BitBucket"
+      ]
+    }
+  ],
+  "contact": {
+    "section_name": {
+      "contact": "Свържете се с мен"
+    },
+    "name": "Име или име на фирма*:",
+    "email": "Въведете вашият Email*:",
+    "topic": "Тема*:",
+    "message": "Въведете вашето съобщение...*:",
+    "submit": "Изпрати"
+  }
+}
