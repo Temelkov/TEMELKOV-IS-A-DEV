@@ -1,0 +1,102 @@
+{
+    "basic_info": {
+        "name": "Stanislav Temelkov",
+        "titles": [
+            ".NET Developer",
+            "Software Engineering Student",
+            "Yong Motivated And Ready For Change"
+        ],
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://www.instagram.com/temelkov.tk/",
+                "class": "fab fa-facebook"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/temelkov.tk/",
+                "class": "fab fa-instagram"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.instagram.com/temelkov.tk/",
+                "class": "fab fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/Temelkov",
+                "class": "fab fa-github"
+            }
+        ],
+        "image": "myProfile.jpg"
+    },
+    "skills": {
+        "icons": [
+            {
+                "name": "C#",
+                "class": "devicon-csharp-plain",
+                "level": "65"
+            },
+            {
+                "name": "MySql",
+                "class": "devicon-mysql-plain",
+                "level": "60"
+            },
+            {
+                "name": ".NET",
+                "class": "devicon-dot-net-plain",
+                "level": "60"
+            },
+            {
+                "name": "HTML 5",
+                "class": "devicon-html5-plain",
+                "level": "95"
+            },
+            {
+                "name": "CSS 3",
+                "class": "devicon-css3-plain",
+                "level": "95"
+            },
+            {
+                "name": "Bootstrap",
+                "class": "devicon-bootstrap-plain",
+                "level": "85"
+            },
+            {
+                "name": "WORDPRESS",
+                "class": "devicon-wordpress-plain",
+                "level": "80"
+            },
+            {
+                "name": "LINUX",
+                "class": "devicon-linux-plain",
+                "level": "90"
+            },
+            {
+                "name": "WINDOWS",
+                "class": "devicon-windows8-original",
+                "level": "70"
+            },
+            {
+                "name": "JAVA",
+                "class": "devicon-java-plain",
+                "level": "75"
+            },
+            {
+                "name": "ANDROID",
+                "class": "devicon-android-plain",
+                "level": "75"
+            },
+            {
+                "name": "DOCKER",
+                "class": "devicon-docker-plain",
+                "level": "75"
+            },
+            {
+                "name": "AWS",
+                "class": "devicon-amazonwebservices-original",
+                "level": "75"
+            }
+        ]
+    }
+}
