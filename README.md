@@ -7,8 +7,8 @@
 ```
 // package.json
 {
-  "name": "react-frontend-dev-portfolio",
-  "homepage": "https://dorota1997.github.io/react-frontend-dev-portfolio/",   <-- remove/edit this
+  "name": "temelkov-is-a.dev",
+  "homepage": "https://temelkov.github.io/",   <-- remove/edit this
   "version": "0.1.0",
   "private": true,
   "dependencies": {
