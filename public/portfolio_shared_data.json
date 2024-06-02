@@ -3,13 +3,12 @@
         "name": "Stanislav Temelkov",
         "titles": [
             ".NET Developer",
-            "Software Engineering Student",
-            "Yong Motivated And Ready For Change"
+            "Software Engineer"
         ],
         "social": [
             {
                 "name": "facebook",
-                "url": "https://www.instagram.com/temelkov.tk/",
+                "url": "https://www.facebook.com/Stanislav00/",
                 "class": "fab fa-facebook"
             },
             {
@@ -19,7 +18,7 @@
             },
             {
                 "name": "linkedin",
-                "url": "https://www.instagram.com/temelkov.tk/",
+                "url": "https://www.linkedin.com/in/stanislav-temelkov-648b13174/",
                 "class": "fab fa-linkedin"
             },
             {
@@ -28,23 +27,23 @@
                 "class": "fab fa-github"
             }
         ],
-        "image": "myProfile.jpg"
+        "image": "profile.jpg"
     },
     "skills": {
         "icons": [
             {
-                "name": "C#",
-                "class": "devicon-csharp-plain",
-                "level": "65"
+                "name": ".NET Framework (C#, ENTITY FRAMEWORK)",
+                "class": "devicon-dot-net-plain",
+                "level": "60"
             },
             {
-                "name": "MySql",
+                "name": "SQL (Relation and NoSQL)",
                 "class": "devicon-mysql-plain",
                 "level": "60"
             },
             {
-                "name": ".NET",
-                "class": "devicon-dot-net-plain",
+                "name": "ANGULAR",
+                "class": "devicon-angular-plain",
                 "level": "60"
             },
             {
@@ -58,29 +57,39 @@
                 "level": "95"
             },
             {
+                "name": "JAVASCRIPT",
+                "class": "devicon-javascript-plain",
+                "level": "95"
+            },
+            {
                 "name": "Bootstrap",
                 "class": "devicon-bootstrap-plain",
                 "level": "85"
             },
             {
-                "name": "WORDPRESS",
-                "class": "devicon-wordpress-plain",
+                "name": "Angular Material",
+                "class": "devicon-angularmaterial-plain",
+                "level": "85"
+            },
+            {
+                "name": "GITHUB",
+                "class": "devicon-github-plain",
                 "level": "80"
             },
             {
-                "name": "LINUX",
-                "class": "devicon-linux-plain",
-                "level": "90"
+                "name": "SCRUM",
+                "class": "devicon-jira-plain",
+                "level": "80"
             },
             {
-                "name": "WINDOWS",
-                "class": "devicon-windows8-original",
-                "level": "70"
+                "name": "BITBUCKET",
+                "class": "devicon-bitbucket-plain",
+                "level": "80"
             },
             {
-                "name": "JAVA",
-                "class": "devicon-java-plain",
-                "level": "75"
+                "name": "WORDPRESS",
+                "class": "devicon-wordpress-plain",
+                "level": "80"
             },
             {
                 "name": "ANDROID",
@@ -93,9 +102,24 @@
                 "level": "75"
             },
             {
-                "name": "AWS",
-                "class": "devicon-amazonwebservices-original",
+                "name": "AZURE",
+                "class": "devicon-azure-plain",
                 "level": "75"
+            },
+            {
+                "name": "AWS",
+                "class": "devicon-amazonwebservices-plain-wordmark",
+                "level": "75"
+            },
+            {
+                "name": "LINUX",
+                "class": "devicon-linux-plain",
+                "level": "90"
+            },
+            {
+                "name": "WINDOWS",
+                "class": "devicon-windows8-original",
+                "level": "70"
             }
         ]
     }
